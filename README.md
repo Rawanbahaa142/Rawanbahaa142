@@ -70,6 +70,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rawanbahaa142/Rawanbahaa142/output/snake.svg" alt="Snake animation" />
+
+![Snake animation](https://github.com/Rawanbahaa142/Rawanbahaa142/blob/output/snake.svg)
+
 
 ###
