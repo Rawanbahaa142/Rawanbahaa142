@@ -1,77 +1,100 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+💜 README.md FOR GITHUB PROFILE
+<div align="center">
 
-###
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
 
-<p align="left"># 👋 Hi there, I'm Rawan Bahaa!</p>
+# Hey 👋 I'm Rawan Bahaa
 
-###
+### Frontend Angular Developer 💻
 
-<h2 align="left">About me</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Frontend+Angular+Developer+💜;Building+Modern+Web+Apps+🚀;Passionate+about+UI%2FUX+✨;Always+Learning+New+Technologies+📚;Hackathon+Participant+🔥" />
 
-###
-
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning: Frontend Development (Angular, JavaScript, TailwindCSS)  <br>🎯 Goals: Build amazing web apps & become a full-stack developer  <br>🎲 Fun fact: I love solving problems and teaching others!</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-###
+## 👩‍💻 About Me
 
-<div align="left">
-</div>
+- 🎓 Computer Science Student at Faculty of Computers and Information  
+- 💜 Frontend Angular Developer specialized in Angular & modern frontend technologies  
+- 🚀 Building real-world projects and scalable web applications  
+- 🏆 Ranked Top 10 in a competitive 4-day hackathon  
+- 💡 Participated in ECPC problem solving competitions  
+- 📚 Currently learning advanced Angular & backend development  
+- ✨ Passionate about UI/UX and clean code  
 
-###
+<br clear="right"/>
 
-<div align="left">
-</div>
+---
 
-###
+## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rawanbahaa142&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rawanbahaa142&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Rawanbahaa142&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind,cpp,python,mysql,git,github,vscode,figma,postman"/>
+
 </div>
 
-###
+---
 
+## 🌐 Connect With Me
 
-![Snake animation](https://github.com/Rawanbahaa142/Rawanbahaa142/blob/output/snake.svg)
+<div align="center">
 
+<a href="https://www.linkedin.com/in/rawan-bahaa-a12530295/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
-###
+<a href="mailto:rwanalrawy162@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://github.com/Rawanbahaa142">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rawanbahaa142&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawanbahaa142&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Rawanbahaa142&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Rawanbahaa142/Rawanbahaa142/blob/output/snake.svg)
+
+</div>
+
+---
+
+## ✨ Visitors Count
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Rawanbahaa142&color=blueviolet)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
+
+</div>
